@@ -1,0 +1,94 @@
+{
+  "familys": [
+    {
+      "id": 1,
+      "surname": "Zimmerman-Clayton"
+    }
+  ],
+  "categorys": [
+    {
+      "category": "Penny",
+      "family": 1,
+      "id": 1
+    },
+    {
+      "category": "James",
+      "family": 1,
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "firstname": "Paul",
+      "lastname": "Zimmerman-Clayton",
+      "email": "paul.zimmerman.clayton@gmail.com",
+      "password": "coffee",
+      "family": 1,
+      "id": 1
+    },
+    {
+      "email": "coffee",
+      "password": "cup",
+      "family": 3,
+      "id": 2
+    },
+    {
+      "first": "water",
+      "last": "bottle",
+      "email": "water",
+      "password": "bottle",
+      "family": "4",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "child": 1,
+      "image": "http://stjamesjc.org/wp-content/uploads/2012/05/St.-James-the-Greater-400x498.jpg",
+      "text": "My son at work",
+      "created": "date",
+      "user": "1"
+    },
+    {
+      "category": "1",
+      "id": 2
+    },
+    {
+      "caption": "bottle",
+      "image": "Coffee",
+      "category": 1,
+      "id": 3
+    },
+    {
+      "caption": "fdsa",
+      "image": "fdsa",
+      "category": 1,
+      "date": "2018-06-18T15:28:16.539Z",
+      "id": 4
+    },
+    {
+      "caption": "cup",
+      "image": "coffee",
+      "category": 1,
+      "date": "2018-06-18T15:28:56.527Z",
+      "id": 5
+    },
+    {
+      "family": 1,
+      "caption": "non-jank",
+      "image": "jank",
+      "category": 1,
+      "date": "2018-06-18T15:31:16.858Z",
+      "id": 6
+    },
+    {
+      "family": 1,
+      "caption": "non-jank",
+      "image": "jank",
+      "category": 1,
+      "date": "2018-06-18T15:31:18.340Z",
+      "id": 7
+    }
+  ]
+}
